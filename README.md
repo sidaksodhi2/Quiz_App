@@ -1,6 +1,8 @@
 # Quiz_App
 
-A new Flutter project.
+A simple quiz app built with flutter. It offers questions on Flutter widgets, state management, navigation, routing, layouts, and UI. Developed within a week, the code may have room for further improvements.
+
+# Screenshots 
 
 ## Getting Started
 
