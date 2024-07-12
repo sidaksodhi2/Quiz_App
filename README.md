@@ -4,7 +4,7 @@ A simple quiz app built with flutter. It offers questions on Flutter widgets, st
 
 # Screenshots 
 <img src="https://github.com/user-attachments/assets/f8edf7bb-20c5-4f48-8ada-60d663b2c6d9" width="200" height="450">
-![image](https://github.com/user-attachments/assets/40fb74bd-3a50-4601-83c4-df4e4d58bd6c)
+<img src="https://github.com/user-attachments/assets/40fb74bd-3a50-4601-83c4-df4e4d58bd6c" width="200" height="450>
 ![image](https://github.com/user-attachments/assets/91d04580-c74e-42a4-9d29-b14f0217ac55)
 
 
